@@ -1,4 +1,4 @@
-### Hi there my name is Tich, I build stuff and sometimes it works 👋 
+### Hi there my name is Tich👋 
 
 <!--
 **tichzvidzayi/tichzvidzayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
