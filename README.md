@@ -1,4 +1,4 @@
-### Hi there my name is Tich, I enjoy learning and experimenting with any tech tools and observing the magic happen. Recently, I admire Python and GO languages.
+### Hi there my name is Tich, I enjoy learning and experimenting with any tech tools and observing the magic happen. I have experimented with C# (my first language),.Net Core, Java,PHP, Laravel, F#, Python, Django, Flask, React, VueJS, JQuery. GOLang, Scala, Angular and the next big tech are still in the pipeline. 
 
 <!--
 **tichzvidzayi/tichzvidzayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
