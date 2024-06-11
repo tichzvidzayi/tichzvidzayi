@@ -1,4 +1,4 @@
-### A Software Engineer with experience using React, Node, TypeScript, C#, Python, PHP-Laravel etc. Also,holds a Master of Science degree in Computer Science.
+"Git push origin master: Where ideas become reality 📝"
 
 <!--
 **tichzvidzayi/tichzvidzayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
