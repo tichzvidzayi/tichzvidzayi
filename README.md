@@ -1,4 +1,4 @@
-### Hi there my name is Tich I like coding.
+### A Software Engineer with experience using React, Node, TypeScript, C#, Python, PHP-Laravel etc. Also,holds a Master of Science degree in Computer Science.
 
 <!--
 **tichzvidzayi/tichzvidzayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
