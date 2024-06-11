@@ -1,4 +1,4 @@
-⚡git push origin master: Where ideas become reality 
+⚡Writing the future, one commit at a time 📜➡️💾
 
 <!--
 **tichzvidzayi/tichzvidzayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
