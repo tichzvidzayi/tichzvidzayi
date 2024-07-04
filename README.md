@@ -33,7 +33,7 @@
 
 ### Connect with Me 
 
-<p align="left">
+<p align="center">
     <a href="https://www.linkedin.com/in/tichzvidzayi/"><img height="40" width="40" alt="LinkedIn" src="./asset/linkedin.ico"></a>
     <a href="mailto:tzvidzie@gmail.com"><img height="50" width="50" alt="Email Tich" src="./asset/email.ico"></a>
 </p>
