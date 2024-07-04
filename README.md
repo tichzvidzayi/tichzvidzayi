@@ -34,13 +34,13 @@
 ### Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tichzvidzayi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burhan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/tichzvidzayi/"><img alt="LinkedIn" src="h"></a>
 
 
 
 
 
-<a href="mailto:tzvidzie@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Burhan-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:tzvidzie@gmail.com"><img alt="Email Tich" src="></a>
 </p>
 
 
