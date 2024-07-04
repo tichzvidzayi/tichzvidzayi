@@ -6,19 +6,9 @@
 
 
 ### Languages:
-| JavaScript | TypeScript | React | Nextjs | Node | Vue |Pyhon |Laravel| C# | AWS |
+| JavaScript | TypeScript | React | Nextjs | Node | Vue |Python |Laravel| C# | AWS |
 |----------|----------|----------|----------|-----|------|-----|-----|----|----|
-|<img src="./asset/js.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> | <img src="./asset/typescript.svg" title="TypeScript"  alt="TypeScript" width="55" height="55"/> | 
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | 
- 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> |
-  
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | 
-    
- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PhP" alt="PhP" width="55" height="55"/>|
-
- 
+|<img src="./asset/js.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> |<img src="./asset/typescript.svg" title="TypeScript"  alt="TypeScript" width="55" height="55"/> | <img src="./asset/react.svg" title="React"  alt="React" width="55" height="55"/> | <img src="./asset/nextjs.svg" title="Next"  alt="Next" width="55" height="55"/> |<img src="./asset/nodejs.svg" title="Node"  alt="Node" width="55" height="55"/> | <img src="./asset/vue.svg" title="Vue"  alt="Vuejs" width="55" height="55"/> |<img src="./asset/python.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="./asset/laravel.svg" title="Laravel"  alt="Laravel" width="55" height="55"/> | <img src="./asset/csharp.svg" title="C#"  alt="C#" width="55" height="55"/> |<img src="./asset/aws.svg" title="AWS"  alt="AWS" width="55" height="55"/> | 
 
 
 
