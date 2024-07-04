@@ -40,7 +40,7 @@
 
 
 
-<a href="mailto:tzvidzie@gmail.com"><img alt="Email Tich" src="></a>
+<a href="mailto:tzvidzie@gmail.com"><img alt="Email Tich" src=" https: "></a>
 </p>
 
 
