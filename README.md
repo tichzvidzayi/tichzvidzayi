@@ -34,13 +34,9 @@
 ### Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tichzvidzayi/"><img alt="LinkedIn" src="h"></a>
+<a href="https://www.linkedin.com/in/tichzvidzayi/"><img alt="LinkedIn" src="./asset/linkedin.ico"></a>
 
-
-
-
-
-<a href="mailto:tzvidzie@gmail.com"><img alt="Email Tich" src=" https: "></a>
+<a href="mailto:tzvidzie@gmail.com"><img alt="Email Tich" src="./asset/email.ico "></a>
 </p>
 
 
