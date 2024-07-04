@@ -1,9 +1,7 @@
-⚡Writing the future, one commit at a time 📜➡️💾
 
-
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Burhan.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
-
-
+## About Me    
+I'm a computer science guy with a knack for AI and machine learning. I've built loads of websites over the years and even worked on augmented reality projects - that futuristic stuff is so cool! Graphic design is one of my favorite hobbies when I'm not coding. I'm also really into digital marketing and have done a ton of work in that space. On top of all that, I'm an entrepreneur running my own business. Technology is my passion and I love exploring all the different areas it touches.
+    
 
 ## Languages and Tools 
 
@@ -75,20 +73,3 @@
 
 
 
-
-
-
-<!--
-**tichzvidzayi/tichzvidzayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
