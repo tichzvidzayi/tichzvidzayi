@@ -16,11 +16,11 @@
 
 ### Connect with Tich 
 
-<p align="left" style="font-size: 0;"> 
-    <a href="https://www.linkedin.com/in/tichzvidzayi/"><img height="30" width="30" alt="LinkedIn" src="./asset/linkedin.ico"></a>
-    
+<p align="left" style="font-size: 0;"> <!-- Set font-size to 0 to remove white space between inline elements -->
+    <a href="https://www.linkedin.com/in/tichzvidzayi/"><img height="15" width="15" alt="LinkedIn" src="./asset/linkedin.ico"></a>
+    <!-- Add non-breaking space for desired spacing -->
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:tzvidzie@gmail.com"><img height="30" width="30" alt="Email Tich" src="./asset/email.ico"></a>
+    <a href="mailto:tzvidzie@gmail.com"><img height="15" width="15" alt="Email Tich" src="./asset/email.ico"></a>
 </p>
 
 <p align="center">
