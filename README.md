@@ -33,10 +33,10 @@
 
 ### Connect with Me 
 
-<p align="left" style="font-size: 0;"> 
+<p align="left" style="font-size: 0;"> <!-- Set font-size to 0 to remove white space between inline elements -->
     <a href="https://www.linkedin.com/in/tichzvidzayi/"><img height="40" width="40" alt="LinkedIn" src="./asset/linkedin.ico"></a>
-    
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- Add non-breaking space for desired spacing -->
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:tzvidzie@gmail.com"><img height="50" width="50" alt="Email Tich" src="./asset/email.ico"></a>
 </p>
 
