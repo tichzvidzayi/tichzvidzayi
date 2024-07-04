@@ -12,8 +12,6 @@
 
  
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Burhan.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
-
 
 
 ### Connect with Me 
@@ -25,7 +23,9 @@
     <a href="mailto:tzvidzie@gmail.com"><img height="50" width="50" alt="Email Tich" src="./asset/email.ico"></a>
 </p>
 
-
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=zwayth&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 
 
