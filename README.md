@@ -8,13 +8,7 @@
 ### Languages:
 | JavaScript | TypeScript | React | Nextjs | Node | Vue |Pyhon |Laravel| C# | AWS |
 |----------|----------|----------|----------|-----|------|-----|-----|----|----|
-| 
-
- <img src="./asset/js.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> | 
-
-
-
-  <img src="./asset/typescript.svg" title="TypeScript"  alt="TypeScript" width="55" height="55"/> | 
+|<img src="./asset/js.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> | <img src="./asset/typescript.svg" title="TypeScript"  alt="TypeScript" width="55" height="55"/> | 
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | 
  
