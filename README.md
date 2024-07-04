@@ -35,32 +35,6 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | 
 
 
----
-
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=zwayth&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
----
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zwayth&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwayth&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=zwayth&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-<p align="center">
- <img width="1000" src="asset/github-snake.svg" alt="snake"/>
-</p>
-
-
 
 ### Connect with Me 
 
