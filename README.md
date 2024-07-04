@@ -17,7 +17,10 @@
 ### Connect with Tich 
 
 <p align="left" style="font-size: 0;"> 
-    <a href="https://www.linkedin.com/in/tichzvidzayi/"><img height="40" width="40" alt="LinkedIn" src="./asset/linkedin.ico"></a>
+    <a href="https://www.linkedin.com/in/tichzvidzayi/"><img height="30" width="30" alt="LinkedIn" src="./asset/linkedin.ico"></a>
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:tzvidzie@gmail.com"><img height="30" width="30" alt="Email Tich" src="./asset/email.ico"></a>
 </p>
 
 <p align="center">
