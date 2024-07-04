@@ -33,15 +33,12 @@
 
 ### Connect with Me 
 
-<p align="right" style="font-size: 0;">
-    <a href="https://www.linkedin.com/in/tichzvidzayi/">
-        <img style="display: block; height: 50px; width: 50px;" alt="LinkedIn" src="./asset/linkedin.ico">
-    </a>
-    <a href="mailto:tzvidzie@gmail.com">
-        <img style="display: block; height: 50px; width: 50px;" alt="Email Tich" src="./asset/email.ico">
-    </a>
+<p align="left" style="font-size: 0;"> 
+    <a href="https://www.linkedin.com/in/tichzvidzayi/"><img height="40" width="40" alt="LinkedIn" src="./asset/linkedin.ico"></a>
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:tzvidzie@gmail.com"><img height="50" width="50" alt="Email Tich" src="./asset/email.ico"></a>
 </p>
-
 
 
 
