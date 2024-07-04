@@ -17,10 +17,10 @@
 ### Connect with Tich 
 
 <p align="left" style="font-size: 0;"> <!-- Set font-size to 0 to remove white space between inline elements -->
-    <a href="https://www.linkedin.com/in/tichzvidzayi/"><img height="18" width="18" alt="LinkedIn" src="./asset/linkedin.ico"></a>
+    <a href="https://www.linkedin.com/in/tichzvidzayi/"><img height="21" width="21" alt="LinkedIn" src="./asset/linkedin.ico"></a>
     <!-- Add non-breaking space for desired spacing -->
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:tzvidzie@gmail.com"><img height="18" width="18" alt="Email Tich" src="./asset/email.ico"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:tzvidzie@gmail.com"><img height="21" width="21" alt="Email Tich" src="./asset/email.ico"></a>
 </p>
 
 <p align="center">
