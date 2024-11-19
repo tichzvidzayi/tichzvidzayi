@@ -7,7 +7,7 @@
 
 ### Portfolio
 ```
-                                                            https://tich.vercel.app
+                                                            [Online Portfolio](https://tich.vercel.app)
 ```
 
 
