@@ -8,8 +8,6 @@
 ### Portfolio
                                                        https://tich.vercel.app/
 
-
-
 ### Connect with Tich 
 
 <p align="left" style="font-size: 0;"> <!-- Set font-size to 0 to remove white space between inline elements -->
