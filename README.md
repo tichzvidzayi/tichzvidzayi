@@ -22,7 +22,6 @@
  <img width="1000" src="asset/github-snake.svg" alt="snake"/>
 </p>
 
-
 <!--
 **tichzvidzayi/tichzvidzayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
